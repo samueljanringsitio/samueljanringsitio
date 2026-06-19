@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samuel Sitio</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/samuelsitio26/samuelsitio26/main/LINK_BANNER_SJSS.png" />
+  <img src="https://raw.githubusercontent.com/samueljanringsitio/samueljanringsitio/main/LINK_BANNER_SJSS.png" />
 </p>
 
 <h3 align="center">🚀 Fullstack Developer | AI Engineer | Backend Specialist</h3>
@@ -37,8 +37,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samuelsitio26&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samuelsitio26&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=samueljanringsitio&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samueljanringsitio&theme=tokyonight" />
 </p>
 
 ---
