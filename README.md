@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samuel Sitio</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/samueljanringsitio/samueljanringsitio/main/LINK_BANNER_SJSS.png" />
+  <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=1350&q=80" />
 </p>
 
 <h3 align="center">🚀 Fullstack Developer | AI Engineer | Backend Specialist</h3>
