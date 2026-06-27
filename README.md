@@ -1,61 +1,62 @@
-<h1 align="center"></h1>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=250&section=header&text=Hi%20👋,%20I'm%20Samuel%20Sitio&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:16213e&height=200&section=header&text=Samuel%20Janring%20Sitio&fontSize=38&fontColor=e2e8f0&fontAlignY=55&animation=fadeIn&desc=Fullstack%20Developer%20·%20AI%20Engineer&descSize=15&descAlignY=75&descFontColor=64748b" />
 </p>
 
-<h3 align="center">🚀 Fullstack Developer | AI Engineer | Backend Specialist</h3>
+<br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=600&lines=Fullstack+Developer;AI+Enthusiast;Backend+Engineer;Always+Learning+New+Things" />
+  <a href="mailto:samueljanringsitio@gmail.com"><img src="https://img.shields.io/badge/Email-0d0d0d?style=flat-square&logo=gmail&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/samuel-janring-sitio-6895992aa/"><img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://instagram.com/samueljs_"><img src="https://img.shields.io/badge/Instagram-0d0d0d?style=flat-square&logo=instagram&logoColor=white"/></a>
 </p>
 
----
+<br/>
 
-## 👨‍💻 About Me
-- 💡 Passionate in Fullstack Development & Artificial Intelligence  
-- 🔭 Working on Web Development & Smart Systems  
-- 🌱 Learning System Design, AI Integration, Scalable Backend  
-- 🎯 Focused on real-world impactful solutions  
+```
+Building systems that scale. Designing intelligence that works.
+Fullstack · Backend Architecture · AI & Machine Learning Integration
+```
 
----
+<br/>
 
-## 🛠 Tech Stack
+**About**
+
+I build end-to-end systems — from backend logic to AI-powered features — with a focus on clean architecture and real-world impact. Currently exploring system design, intelligent retrieval, and scalable infrastructure.
+
+<br/>
+
+**Stack**
+
+<p>
+  <img src="https://img.shields.io/badge/Python-1a1a2e?style=flat-square&logo=python&logoColor=3776AB"/>
+  <img src="https://img.shields.io/badge/Java-1a1a2e?style=flat-square&logo=openjdk&logoColor=ED8B00"/>
+  <img src="https://img.shields.io/badge/JavaScript-1a1a2e?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-1a1a2e?style=flat-square&logo=postgresql&logoColor=336791"/>
+  <img src="https://img.shields.io/badge/MySQL-1a1a2e?style=flat-square&logo=mysql&logoColor=00758F"/>
+  <img src="https://img.shields.io/badge/Linux-1a1a2e?style=flat-square&logo=linux&logoColor=FCC624"/>
+  <img src="https://img.shields.io/badge/Git-1a1a2e?style=flat-square&logo=git&logoColor=F05032"/>
+</p>
+
+<br/>
+
+**Selected Work**
+
+| Project | Description |
+|---|---|
+| 🗺️ Tourism Recommendation System | CAG-RAG hybrid engine for intelligent travel suggestions |
+| 🤖 AI Chatbot for Smart Tourism | Conversational AI for real-time tourism assistance |
+| 📊 Data Analytics Dashboard | Visual insights layer over complex datasets |
+
+<br/>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=samueljanringsitio&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=e2e8f0&icon_color=64748b&text_color=94a3b8&hide=stars" height="150"/>
+  &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samueljanringsitio&theme=dark&hide_border=true&background=0d0d0d&ring=64748b&fire=e2e8f0&currStreakLabel=e2e8f0&sideLabels=64748b&dates=475569" height="150"/>
 </p>
-
----
-
-## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samueljanringsitio&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samueljanringsitio&theme=tokyonight" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d0d0d&height=100&section=footer" />
 </p>
-
----
-
-## 🚀 Featured Projects
-- 🌍 Tourism Recommendation System (CAG-RAG Hybrid)
-- 🤖 AI Chatbot for Smart Tourism
-- 📊 Data Analytics Dashboard
-
----
-
-## 📫 Contact Me
-- ✉️ Email: samueljanringsitio@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/samuel-janring-sitio-6895992aa/  
-- 📸 Instagram: https://instagram.com/samueljs_  
-
----
-
-## ⚡ Fun Fact
-> I love turning complex problems into scalable solutions 🚀
