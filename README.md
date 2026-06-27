@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samuel Sitio</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=250&section=header&text=Hi 👋, I'm Samuel%20Sitio&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=250&section=header&text=Hi%20👋,%20I'm%20Samuel%20Sitio&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <h3 align="center">🚀 Fullstack Developer | AI Engineer | Backend Specialist</h3>
