@@ -40,16 +40,6 @@ I build end-to-end systems — from backend logic to AI-powered features — wit
 
 <br/>
 
-**Selected Work**
-
-| Project | Description |
-|---|---|
-| 🗺️ Tourism Recommendation System | CAG-RAG hybrid engine for intelligent travel suggestions |
-| 🤖 AI Chatbot for Smart Tourism | Conversational AI for real-time tourism assistance |
-| 📊 Data Analytics Dashboard | Visual insights layer over complex datasets |
-
-<br/>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=samueljanringsitio&show_icons=true&hide_border=true&theme=tokyonight&bg_color=13111e&title_color=c7d2fe&icon_color=818cf8&text_color=e0e7ff&hide=stars" height="150"/>
   &nbsp;
