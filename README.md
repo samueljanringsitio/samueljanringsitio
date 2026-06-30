@@ -15,7 +15,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=818cf8&size=20&center=true&vCenter=true&width=700&lines=Building+systems+that+scale.;Designing+intelligence+that+works.;Fullstack+·+Backend+Architecture;AI+%26+Machine+Learning+Integration" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=818cf8&size=20&center=true&vCenter=true&width=700&lines=Building+systems+that+scale.;Designing+intelligence+that+works.;Fullstack+%C2%B7+Backend+Architecture;AI+%26+Machine+Learning+Integration" />
 </p>
 
 <br/>
@@ -43,7 +43,7 @@ I build end-to-end systems — from backend logic to AI-powered features — wit
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=samueljanringsitio&show_icons=true&hide_border=true&theme=tokyonight&bg_color=13111e&title_color=c7d2fe&icon_color=818cf8&text_color=e0e7ff&hide=stars" height="150"/>
   &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samueljanringsitio&hide_border=true&background=13111e&stroke=6366f1&ring=818cf8&fire=c7d2fe&currStreakNum=f1f5f9&currStreakLabel=c7d2fe&sideNums=f1f5f9&sideLabels=818cf8&dates=6366f1" height="150"/>
+  <img src="https://streak-stats.demolab.com/?user=samueljanringsitio&hide_border=true&background=13111e&stroke=6366f1&ring=818cf8&fire=c7d2fe&currStreakNum=f1f5f9&currStreakLabel=c7d2fe&sideNums=f1f5f9&sideLabels=818cf8&dates=6366f1" height="150"/>
 </p>
 
 <p align="center">
